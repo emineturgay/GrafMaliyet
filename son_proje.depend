@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1461098506 source:c:\users\asusx555\desktop\son_proje\main.cpp
+	<allegro.h>
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<map>
+	<limits.h>
+	<stdio.h>
+	<set>
+	<math.h>
+
+1461098506 source:c:\users\asusx555\desktop\projeler\proje_graf_maliyet\main.cpp
+	<allegro.h>
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<map>
+	<limits.h>
+	<stdio.h>
+	<set>
+	<math.h>
+
+1461094906 source:c:\users\asusx555\desktop\drive\projeler\proje_graf_maliyet\main.cpp
+	<allegro.h>
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<map>
+	<limits.h>
+	<stdio.h>
+	<set>
+	<math.h>
+
